@@ -24,11 +24,6 @@
   <img width="12" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/incognito-1.svg" height="35" alt="soon logo"  />
-</div>
 
 ###
 
