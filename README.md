@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Cesar, soy de from Nicaragua</h2>
+<h2 align="left">Hola 👋! Mi nombre es Cesar, soy de Nicaragua</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/af/66/28/af6628b705dc004729b3886addb62080.gif"  />
 
 ###
 
